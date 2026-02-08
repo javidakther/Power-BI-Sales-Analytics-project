@@ -40,6 +40,11 @@ This project focuses on analyzing sales performance using Power BI. The goal was
 - Power BI (.pbix) file
 - Raw dataset (CSV)
 - Dashboard screenshots
+  
+Screenshots / Demos
+Show what the dashboard looks like. -Exectuive Summary ![Alt text](https://github.com/javidakther/Power-BI-Sales-Analytics-project/blob/main/Exectuive%20Summary.png)
+Sales & Profit Trend ![Alt text](https://github.com/javidakther/Power-BI-Sales-Analytics-project/blob/main/Sales%20%26%20Profit%20Trends.png)
+Product & Payment Analysis ![Alt text](https://github.com/javidakther/Power-BI-Sales-Analytics-project/blob/main/Product%20%26%20Payment%20Analysis.png)
+Customer Insight ![Alt text](https://github.com/javidakther/Power-BI-Sales-Analytics-project/blob/main/Customer%20Insights.png)
 
-## Author
-Javid Akther
+
